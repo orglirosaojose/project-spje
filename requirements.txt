@@ -1,3 +1,2 @@
-random==3.
 streamlit
 pyrebase
