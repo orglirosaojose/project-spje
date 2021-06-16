@@ -10,7 +10,7 @@ def oracoes_fixas():
                                                          'São Padre Pio - Fica comigo Senhor', 'São José'])
 
     if oracoes_fixas == 'Selecione a oração desejada':
-        st.image('images/oracao_papa.jpeg')
+        st.image('images/oracao_santos.png')
     
     elif oracoes_fixas == 'Santo Inácio – Anima Christi':
         st.markdown('''

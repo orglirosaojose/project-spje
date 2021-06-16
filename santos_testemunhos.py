@@ -74,60 +74,70 @@ def santos_testemunhos():
         
 *Diz um sacerdote que há conheceu:*
 
-> "O entusiasmo que tinha pela Eucaristia contagiava as crianças." 
+> "O entusiasmo que ela tinha pela Eucaristia contagiava as crianças." 
 
 *Mattehew Schmidt, aluno da Irmã Clare:*
 
-> "Ela transportava-nos verdadeiramente para o significado mais profundo da Eucaristia."
+> "A Irmã Clare transportava-nos verdadeiramente para o significado mais profundo da Eucaristia."
         
 *Um relato de sua vida:*
 
-> "Certa vez, quando as irmãs estavam indo levar a comunhão aos doentes, uma Hóstia consagrada acabou caindo na terra, Clare ficou em choque e profundamente entristecida.
-A Irmã Sara, logo pegou a comunhão do chão, Clare foi e beijou a terra, ficando assim com o rosto todo sujo.
-Equador, entre 2014/2015.
+> "Certa vez, quando as irmãs estavam indo levar a comunhão aos doentes, uma Hóstia consagrada acabou caindo na terra, Clare ficou em espantada e profundamente entristecida.
+A Irmã Sara, logo pegou a comunhão do chão, Clare foi e beijou a terra, não se importando em ficar assim com o rosto todo sujo.
 
-*Trecho de e-mail escrito por Irmã Clare:*
+Equador, 2014/2015.
+
+*Trecho de e-mail escrito pela própria Irmã Clare:*
 
 > Por vezes imagino uma igreja antiga, pequena, numa pequena aldeia em Espanha. Tem um tabernáculo com a Eucaristia no seu interior. Quase ninguém lá vai para visitar o Senhor. Durante o dia, fujo para lá, para aquela pequena aldeia, descanso a minha testa no tabernáculo e acompanho o Senhor durante algum tempo. Isto faz-me UM BEM IMENSO.
 
         
-Irmã Clare passou por um processo de conversão, antes vivia uma vida mundana, 
-desregrada e com o sonho de ser uma atriz famosa, uma estrela de cinema com milhares e milhares de fãs.
-Entretanto graças a Misericórdia Divina, e o mérito da Clare em acolher, dizendo sim a sua vocação 
-a fez mudar e escolher O caminho.
+Irmã Clare passou por um processo de conversão, antes vivia uma vida mundana e desregrada. 
+Tinha o sonho de ser uma atriz famosa, *uma estrela de cinema com milhares e milhares de fãs*.
+Entretanto graças a Misericórdia Divina, e o mérito da Clare em acolher, dizendo *sim* a sua vocação 
+fez ela mudar completamente.
 
-A partir dai a Irmã Clare entendeu que apenas Um Fã é necessário, apenas Um da plateia a motivava 
-em dar seu melhor e sempre com uma Alegria incomparável.
+A partir dai a Irmã Clare entendeu que apenas **Um Fã é necessário**, apenas Um de sua plateia a motivava 
+em dar seu melhor e sempre com uma alegria contagiante.
 
-Sabemos que certamente este Fã é ***Jesus Eucaristico.***
+Sabemos que certamente este Fã é ***Jesus Eucarístico.***
+
+Santo Afonso Maria de Ligório diz:
+> "Quem não quer nada além de Deus, está sempre feliz em tudo o que acontece."
                 
 Em sua vida podemos ver o quão perfeito e esplêndido é o planos de Deus, em relação ao nosso. 
 Em 2020 foi a primeira vez que ouvi falar dela, através do comentário de um amigo.
-Logo então, já corri para o Google e digitei o nome dela.. 
-E PAH! Apareceu diversos jornais contando sua história, relatos de irmãs de sua congregação, 
+Então, já corri para o Google e digitei o nome dela.. 
+*E PAH!* Logo de cara já apareceu diversos jornais, sites e revistas contando sua história, relatos de irmãs de sua congregação, 
 tudo com uma grande quantidade de espectadores e acessos.
-Tem um documentário só dela com milhares de visualizações e testemunhos de pessoas que conviveram com ela.
+Tem um documentário só dela com milhares de visualizações.
 
 Mas o melhor de tudo, e o que certamente ela nem **imaginava ou ousava pedir,** 
-são o exemplo e impacto de sua vida nas pessoas de todo o mundo, transformando familias.
-O qual perpetua até hoje em dia, fazendo dela ***sim*** uma **estrela, porem bem maior que 
-uma estrela de Hollywood aqui do mundo, Irmã Clare é uma estrela agora do Céu 
-iluminando, intercedendo e dando o exemplo a todos nós.**
+é o exemplo e impacto de sua vida nas pessoas *de todo o mundo*, transformando famílias,
+suscitando jovens a buscar cada vez mais a santidade.
 
-Essa é a verdadeira fama, a fama que todos nós deveríamos pedir e exalar em todos os lugares 
+Isso perpetua até hoje em dia, fazendo dela ***sim*** uma **estrela, porem bem maior que 
+uma estrela de Hollywood aqui do mundo, a Irmã Clare é uma estrela agora do Céu 
+iluminando, intercedendo e dando exemplo a todos nós.**
+
+Eis a verdadeira fama, a fama que todos nós deveríamos pedir e exalar em todos os lugares 
 onde formos, assim como Clare fez.
-> "Quem não quer nada além de Deus, esta sempre feliz em tudo o que acontece."
- Santo Afonso Maria de Ligório  
 
-Como diz seu documentário, o qual se chama: "Ou Tudo ou nada", ela que entregou tudo, pelo Tudo(como diz São João da Cruz).
-Todavia tudo isso não é uma surpresa, pelo menos aos que leem a biblia:
+Seu documentário, o qual se chama: "Ou Tudo ou nada", resume bem sua entrega, "tudo, 
+pelo Tudo", como sempre diz São João da Cruz.
+
+Todavia tudo isso não é uma surpresa, é apenas a loucura do Evangelho:
         
 > "Porque o que quiser salvar a sua vida, irá perdê-la; mas o que perder a sua vida por amor de mim e do Evangelho, irá salvá-la." (Mc 8, 35)
 
-> "E todo aquele que por minha causa deixar irmãos, irmãs, pai, mãe, mulher, filhos, terras ou casa ***receberá o cêntuplo e possuirá a vida eterna”.*** "
-(Mt 19,29) 
+> "E todo aquele que por minha causa deixar irmãos, irmãs, pai, mãe, mulher, filhos, terras ou casa ***receberá o cêntuplo e possuirá a vida eterna”.*** (Mt 19,29) 
+
+Ela em sua caminhada entregou seus sonhos, deixou irmãos, pai, mãe, perdeu sua vida por amor..
+ para agora receber o *cêntuplo e "el Paraiso"*.
 
 Que a Irmã Clare, interceda a Deus por nós.
+
+Nos ensinando a viver a ***Alegria Eucarística e a confiar nos Planos/Tempo/Misericórdia de Deus.***
 
 Amém!
             ''')
@@ -138,15 +148,17 @@ Amém!
         st.header('Beato Carlo Acutis')
         st.markdown(''' 
             
-            "Carlo era um garoto absolutamente normal. Fazia as coisas que todas as crianças de hoje fazem: usava o computador, brincava com os amigos, levava uma vida semelhante à dos seus amigos."
-            
-            "A única grande diferença é que havia colocado no centro de seu dia o encontro com Jesus Eucarístico com a Missa e da Adoração que fazia sempre antes ou depois da celebração."
+            *Relatos sobre ele:*
 
-            *Papa Francisco disse no dia de sua beatificação:*
+            > "Carlo era um garoto absolutamente normal. Fazia as coisas que todas as crianças de hoje fazem: usava o computador, brincava com os amigos, levava uma vida semelhante à dos seus amigos."
+            
+            > "A única grande diferença é que havia colocado no centro de seu dia o encontro com Jesus Eucarístico com a Missa e da Adoração que fazia sempre antes ou depois da celebração."
+
+            *Papa Francisco diz no dia de sua beatificação:*
 
             >Foi beatificado Carlo Acutis, um jovem de quinze anos, enamorado pela Eucaristia. Ele não se acomodou em uma confortável imobilidade, mas acolheu as necessidades de seu tempo, porque nos mais fracos via o rosto de Cristo.
 
-            O relato mais belo do Beato Carlo:
+            *A frase mais bela de Beato Carlo:*
 
             >"Eucaristia minha auto-estrada para o Céu."
 

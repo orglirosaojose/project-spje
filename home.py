@@ -8,18 +8,18 @@ from save_on_firestore import cadastro_email
 #Pagina incial - Fixo
 st.sidebar.write("""
 #### A.M.D.G
-Ad maiorem Dei glorie
+Ad maiorem Dei gloriam
 """)
 opcoes = ["Página inicial", "Ação de Graças", "Ação de Graças Personalizada(NLP)",
            "Orações fixas", "Testemunhos Eucarísticos", "Inteligência Artificial Eucarística",
-           "News Letter", "Hinos Eucarísticos(em vídeo)"]
+           "N e w s - L e t t e r", "Hinos Eucarísticos(em vídeo)"]
 
 nav = st.sidebar.radio("Menu de navegação:", opcoes)
 
 #Separação Menu
 if nav == "Página inicial":
-    st.title('Longuiflorum')
-    st.write("Oferecido por: Organização Lírios de São José")
+    st.title('Lírio Eucarístico')
+    st.write("*Oferecido por:* Organização Lírios de São José")
 
     st.image('images/home.jpg')
 
@@ -82,7 +82,7 @@ elif nav == "Testemunhos Eucarísticos":
 elif nav == "Hinos Eucarísticos(em vídeo)":
     hinos_eucaristicos()
 
-elif nav == "News Letter":
+elif nav == "N e w s - L e t t e r":
     cadastro_email()
 
 elif nav == "Inteligência Artificial Eucarística":
